@@ -1,5 +1,130 @@
 [
     {
+        "title": "Dandan",
+        "id": "Dandan",
+        "game": "Magic the Gathering",
+        "format": [ "Dandan" ],
+        "cardCount": 80,
+        "createdAt": "2025-12-02T21:13",
+        "lastModifiedAt": "2025-12-02T21:13",
+        "deckList": {
+            "categoriesOrder": [
+                "Creature",
+                "Instant",
+                "Land",
+                "Sorcery"
+            ],
+            "Creature": [
+                {
+                    "count": 10,
+                    "id": "88929373-b2c8-4a81-a809-fed87fd5b0d7"
+                }
+            ],
+            "Instant": [
+                {
+                    "count": 4,
+                    "id": "1ca25379-d194-4670-a7bf-525ad11cf436"
+                },
+                {
+                    "count": 2,
+                    "id": "36cd2364-d113-47d1-b2c4-b088d9eb88dd"
+                },
+                {
+                    "count": 2,
+                    "id": "fe371e3a-976f-41d8-ad58-4b3b61415d71"
+                },
+                {
+                    "count": 2,
+                    "id": "5ab0ab9b-c143-4315-8983-f645fb21f8b3"
+                },
+                {
+                    "count": 2,
+                    "id": "8088d110-2314-45c3-b6ee-3f55d1f388e4"
+                },
+                {
+                    "count": 6,
+                    "id": "bbfb3e4a-b389-4391-8141-13b68c0ef2e0"
+                },
+                {
+                    "count": 2,
+                    "id": "77d6c141-5670-4120-9346-dc2fdcb66e50"
+                },
+                {
+                    "count": 2,
+                    "id": "d8377869-f8f7-4b4b-93ad-3ad3c4826b1a"
+                },
+                {
+                    "count": 2,
+                    "id": "fb81f95c-70f8-4eb7-8d15-15d0ae23ec03"
+                },
+                {
+                    "count": 2,
+                    "id": "72a7faa0-cb0c-4841-84f3-e340b19fe045"
+                },
+                {
+                    "count": 2,
+                    "id": "adf41d29-403d-4936-9689-3148d103e700"
+                },
+                {
+                    "count": 2,
+                    "id": "7e49f689-996a-477e-a327-32b69fbc0d85"
+                },
+                {
+                    "count": 2,
+                    "id": "c387f46f-ad91-4964-8dc6-acefe537fe3c"
+                },
+                {
+                    "count": 2,
+                    "id": "c56d2c5b-c3e3-4236-bc38-286e250aa4f7"
+                }
+            ],
+            "Land": [
+                {
+                    "count": 2,
+                    "id": "42d121a2-5266-483a-ab16-e0a8073cd6a3"
+                },
+                {
+                    "count": 18,
+                    "id": "b2c6aa39-2d2a-459c-a555-fb48ba993373"
+                },
+                {
+                    "count": 2,
+                    "id": "1cb9d94a-3039-4f2e-8fcc-6996f9a45f74"
+                },
+                {
+                    "count": 2,
+                    "id": "765863c8-1be0-4bb1-9e9c-db7701cffde3"
+                },
+                {
+                    "count": 2,
+                    "id": "17b60106-a4c7-410a-8ac3-ec8e74e29a7c"
+                },
+                {
+                    "count": 2,
+                    "id": "24aebda0-315f-4d2f-8bd9-00bbaf5bd76a"
+                },
+                {
+                    "count": 2,
+                    "id": "5578cf33-62f5-456c-a58c-f744a25df79b"
+                },
+                {
+                    "count": 2,
+                    "id": "79f94050-d850-41ca-b1db-5ae0cf743f0a"
+                }
+            ],
+            "Sorcery": [
+                {
+                    "count": 2,
+                    "id": "f9b02a7c-c122-4282-90e2-81fcfa663193"
+                },
+                {
+                    "count": 2,
+                    "id": "b7cfbfa1-dd38-47ff-9138-fa6b247afc11"
+                }
+            ]
+        }
+    },
+    {
         "title": "EOE - World Shaper",
         "id": "EOE - World Shaper",
         "game": "Magic the Gathering",
