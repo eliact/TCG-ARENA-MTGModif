@@ -1,6 +1,6 @@
 {
-    "name": "Magic the Gathering",
-    "menuBackgroundImage": "https://i.ibb.co/ZzKYNswJ/z-V2lc-ZW-Imgur.jpg",
+    "name": "Magic the Gathering[DanDan]",
+    "menuBackgroundImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPpRc6_bzequTTWUddF5QPSwhssqWnBP3EQg&s",
     "deckBuilding": {
         "mainFilters": ["type", "Colors", "cost"],
         "costCurveIgnoredTypes": ["Land"],
